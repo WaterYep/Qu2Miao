@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/__StudyOfMaster/__Embeded_Software/cPlus/10/main.cpp
+iostream
+-
+stack.h
+D:/__StudyOfMaster/__Embeded_Software/cPlus/10/stack.h
+cctype
+-
+
+D:/__StudyOfMaster/__Embeded_Software/cPlus/10/stack.h
+
